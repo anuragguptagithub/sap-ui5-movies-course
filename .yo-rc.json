@@ -1,0 +1,16 @@
+{
+  "generator-easy-ui5": {
+    "projectname": "movies",
+    "namespace": "opensap",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "viewname": "App",
+    "ui5libs": "Content delivery network (SAPUI5)",
+    "newdir": true,
+    "namespaceURI": "opensap",
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
